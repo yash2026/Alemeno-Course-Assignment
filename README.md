@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### `npm install @coreui/react` Used for UI
+
+Reference is: [https://coreui.io/react/docs/getting-started/introduction/]
+
+### `import '@coreui/coreui/dist/css/coreui.min.css'` import CSS by using this line of Code in JSX files
+
+### `npm install react-redux` React Redux is the official React UI bindings layer for Redux
+[https://react-redux.js.org/introduction/getting-started]
+
+### `npm install styled-components` Installation of styled components for scss
+[https://styled-components.com/docs/basics#installation]
+
+### `npm install @reduxjs/toolkit` Installation of Redux toolkit
+[https://redux-toolkit.js.org/introduction/getting-started]
